@@ -1,2 +1,4 @@
 Microsoft Windows:
 Microsoft Windows is also referred to as Windows or Windows OS. It is a computer operating system or OS that was developed by the Microsoft Corporation to run people's personal computers also known as PC's. There are approximately 90% of PC's that run some version of Windows as their operating system. The first version of Windows was released in 1985.
+Apple IOS:
+Apple IOS is only run on Apple mobile devices such as the iPhone, iPad, and iPod Touch. This operating system is based on the Mac OS X operating system run on desktops and laptop computers. Apple IOS stands for Apple iPhone Operating System. Apple IOS was originally called iPhone OS but after the company released three versions of iPhone OS, they changed the name to Apple IOS when IOS 4 debuted in June 2010.
